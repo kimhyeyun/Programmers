@@ -1,4 +1,5 @@
 # Programmers
-Programmers 코딩테스트 연습
+Programmers 코딩테스트 
 
-1. Hash - 완주하지 못한 선수 : completion과 participant를 비교해 완주하지 못한 선수 출력
+begin : 2020-08-16
+1. Hash
