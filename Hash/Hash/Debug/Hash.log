@@ -1,0 +1,5 @@
+﻿  best_album.cpp
+C:\Users\김혜윤\Desktop\yun\Programmers\Hash\Hash\best_album.cpp(16,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Hash\Hash\best_album.cpp(37,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Hash\Hash\best_album.cpp(57,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Hash.vcxproj -> C:\Users\김혜윤\Desktop\yun\Programmers\Hash\Debug\Hash.exe
