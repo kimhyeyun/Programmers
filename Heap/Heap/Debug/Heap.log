@@ -1,0 +1,5 @@
+﻿  doubliy_priority_queue.cpp
+C:\Users\김혜윤\Desktop\yun\Programmers\Heap\Heap\doubliy_priority_queue.cpp(16,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Heap\Heap\doubliy_priority_queue.cpp(52,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Heap\Heap\doubliy_priority_queue.cpp(56,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Heap.vcxproj -> C:\Users\김혜윤\Desktop\yun\Programmers\Heap\Debug\Heap.exe
