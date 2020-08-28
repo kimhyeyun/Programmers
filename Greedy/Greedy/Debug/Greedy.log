@@ -1,0 +1,10 @@
+﻿  Gym_suit.cpp
+C:\Users\김혜윤\Desktop\yun\Programmers\Greedy\Greedy\Gym_suit.cpp(11,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Greedy\Greedy\Gym_suit.cpp(13,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Greedy\Greedy\Gym_suit.cpp(16,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Greedy\Greedy\Gym_suit.cpp(30,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  The_largest_num.cpp
+C:\Users\김혜윤\Desktop\yun\Programmers\Greedy\Greedy\The_largest_num.cpp(11,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+The_largest_num.obj : error LNK2005: _main이(가) Gym_suit.obj에 이미 정의되어 있습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\Greedy\Debug\Greedy.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
