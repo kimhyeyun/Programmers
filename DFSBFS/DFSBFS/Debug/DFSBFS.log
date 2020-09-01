@@ -1,0 +1,4 @@
+﻿  Travel.cpp
+C:\Users\김혜윤\Desktop\yun\Programmers\DFSBFS\DFSBFS\Travel.cpp(14,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김혜윤\Desktop\yun\Programmers\DFSBFS\DFSBFS\Travel.cpp(41,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  DFSBFS.vcxproj -> C:\Users\김혜윤\Desktop\yun\Programmers\DFSBFS\Debug\DFSBFS.exe
