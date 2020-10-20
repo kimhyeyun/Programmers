@@ -5,7 +5,7 @@ start : 2020-08-16
 2. Stack&Queue : LIFO, FIFO, push&pop 
 3. Heap : 특정한 규칙을 가지는 트리로, 힙을 이용해서 우선순위 큐를 구현가능
 4. Sort 
-5. Binary Search (완전탐색)
+5. BP (완전탐색)
 6. Greedy (탐욕법) : 부분적인 최적해가 전체적인 최적해
   - Island.cpp (섬 연결하기) : 최소의 비용으로 모든 섬이 서로 통행 가능하도록 하는 최소비용 
     Minimum Spanning Tree(최소 신장 트리) 이용
